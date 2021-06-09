@@ -39,4 +39,12 @@ prodcut of magnetometer and Up.
  # Calculating Gravity 
  After knowing the orientation quanterion we align the accelerometer aling the quanterion and subtracting the vector [0,0,9.81] indiacting the accelerating due to gravity which 
  we then subtract to the values of accelerometer and we get the value of linear acceleration.
+ # Results
+ ![x](https://user-images.githubusercontent.com/75869438/121357905-d0589e00-c94f-11eb-97ee-07c58491eb8f.PNG)
+<br />
+<br />
+![y](https://user-images.githubusercontent.com/75869438/121357923-d64e7f00-c94f-11eb-8dc6-75dc68465786.PNG)
+<br />
+<br />
+![z](https://user-images.githubusercontent.com/75869438/121357959-dbabc980-c94f-11eb-8b89-bd6d091e6fe8.PNG)
 
